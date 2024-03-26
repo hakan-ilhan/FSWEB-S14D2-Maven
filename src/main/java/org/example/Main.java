@@ -11,5 +11,7 @@ public class Main {
                 new Lamp(LampType.NORMAL,true, 80),new Wardrobe(8,4,100.0),new Carpet(2,2,PaintColor.WHITE));
 
         System.out.println(bedroom.getLamp().toString());
+
+
     }
 }
